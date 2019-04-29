@@ -15,5 +15,5 @@ cmake
 After cloning the repository to your machine, rename the folder accordingly to the desired project name and run
 
 ```
-sudo ./build.sh
+sudo bash build.sh
 ```
